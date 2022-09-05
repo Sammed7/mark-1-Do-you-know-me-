@@ -10,11 +10,11 @@ console.log("welcome " + userName + " to the game !");
 var highscore = [
   {
     name: "sammmed",
-    score: 3
+    score: 5
   },
   {
     name: "akanksha",
-    score: 2
+    score: 4
   }
 ];
 
